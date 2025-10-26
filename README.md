@@ -27,4 +27,4 @@
 
 </div>
 
-  ![Sanake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Sanake animation](https://github.com/B0o07/B0o07/blob/output/github-contribution-grid-snake.svg)
