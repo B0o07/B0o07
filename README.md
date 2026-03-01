@@ -6,7 +6,7 @@
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=B0o07&show_icons=true&theme=tokyonight"/>
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0o07&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+[![B0o07's GitHub stats](https://github-readme-stats.vercel.app/api?username=B0o07)](https://github.com/B0o07/github-readme-stats)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;"/>
