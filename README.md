@@ -4,18 +4,15 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: wsaullo15@gmail.com
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=B0o07&show_icons=true&theme=tokyonight"/>
+<!-- <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=B0o07&show_icons=true&theme=tokyonight"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B0o07)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B0o07)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="margin-right:10px;"/>
 </p>
   
