@@ -1,7 +1,7 @@
 ## Hi there, I'm Saulo Weslen
 
 - 🔭 I’m currently working on Backend
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: wsaullo15@gmail.com
 
 <!-- <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=B0o07&show_icons=true&theme=tokyonight"/>
